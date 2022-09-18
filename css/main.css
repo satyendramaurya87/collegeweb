@@ -344,7 +344,7 @@ header .block {
     margin-bottom: 80px;
 }
 
-header a.logomain {
+header {
     float: left;
     width: 250px;
     height: 50px;
@@ -1464,6 +1464,7 @@ html.dark body footer a:hover {
     }
     header a.logomain {
         float: none;
+        margin-left:11px;
         display: inline-block;
     }
     header ol {
